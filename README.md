@@ -1,4 +1,4 @@
-![Konami Code](https://github.com/Enoarch/konami_tk/blob/master/readme_file/konami_cod e.jpg)
+![Konami Code](https://github.com/Enoarch/konami_tk/blob/master/readme_file/konami_code.jpg)
 
 # konami_tk Project
   
